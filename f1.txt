@@ -1,2 +1,3 @@
 file fi is created
 second line is 
+3rd line
